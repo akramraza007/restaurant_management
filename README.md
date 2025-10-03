@@ -35,12 +35,11 @@ This is a simple Python-based console application that simulates a food ordering
 ```base 
 git clone https://github.com/akramraza007/restaurant_management.git
 ```
-3. Open terminal or command prompt.
-4. Go Into the Project Folder 
+3. Go Into the Project Folder 
 ```base 
 cd restaurant_management
 ```
-5. Run the script using:
+4. Run the script using:
 
 ```bash
 python rest_manage.py
