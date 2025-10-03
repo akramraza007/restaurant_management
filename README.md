@@ -1,4 +1,4 @@
-# Akram's Restaurant Ordering System 🧾🍕
+# Restaurant Ordering System 🧾🍕
 
 This is a simple Python-based console application that simulates a food ordering system for Akram's Restaurant. Users can view the menu, place multiple orders, and receive a final bill summary. The program uses a loop to allow continuous ordering until the user types `exit`.
 
@@ -40,7 +40,7 @@ git clone https://github.com/akramraza007/restaurant_management.git
 ```base 
 cd restaurant_management
 ```
-4. Run the script using:
+5. Run the script using:
 
 ```bash
 python rest_manage.py
